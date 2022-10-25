@@ -1,0 +1,26 @@
+[
+    {
+        "id": "01",
+        "name": "The Complete 2022 Web Development Bootcamp"
+    },
+    {
+        "id": "02",
+        "name": "100 Days of Code: The Complete Python Pro Bootcamp"
+    },
+    {
+        "id": "03",
+        "name": "React - The Complete Guide (incl Hooks, React Router, Redux)"
+    },
+    {
+        "id": "04",
+        "name": "The Complete SQL Bootcamp 2022: Go from Zero to Hero"
+    },
+    {
+        "id": "05",
+        "name": "The Data Science Course 2022: Complete Data Science Bootcamp"
+    },
+    {
+        "id": "06",
+        "name": "Machine Learning A-Z™: Hands-On Python & R In Data Science"
+    }
+]
