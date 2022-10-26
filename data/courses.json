@@ -1,26 +1,56 @@
 [
     {
         "id": "01",
-        "name": "The Complete 2022 Web Development Bootcamp"
+        "name": "The Complete 2022 Web Development Bootcamp",
+        "title": "Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, MongoDB, Web3 and DApps",
+        "author_name": "Sarah Dayan",
+        "img": "https://i.ibb.co/THNwKqx/Web-Development-Bootcamp.jpg",
+        "ratings": "4.9",
+        "students": "Student Enroll (17,267)"
     },
     {
         "id": "02",
-        "name": "100 Days of Code: The Complete Python Pro Bootcamp"
+        "name": "100 Days of Code: The Complete Python Pro Bootcamp",
+        "title": "Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps!",
+        "author_name": "Sarah Dayan",
+        "img": "https://i.ibb.co/QJV0ZfP/Python-Bootcamp.jpg",
+        "ratings": "4.9",
+        "students": "Student Enroll (17,267)"
     },
     {
         "id": "03",
-        "name": "React - The Complete Guide (incl Hooks, React Router, Redux)"
+        "name": "React - The Complete Guide (incl Hooks, React Router, Redux)",
+        "title": "Dive in and learn React.js from scratch! Learn Reactjs, Hooks, Redux, React Routing, Animations, Next.js and way more!",
+        "author_name": "Sarah Dayan",
+        "img": "https://i.ibb.co/C0tDxzR/React.png",
+        "ratings": "4.9",
+        "students": "Student Enroll (17,267)"
     },
     {
         "id": "04",
-        "name": "The Complete SQL Bootcamp 2022: Go from Zero to Hero"
+        "name": "The Complete SQL Bootcamp 2022: Go from Zero to Hero",
+        "title": "Become an expert at SQL! Learn how to use SQL quickly and effectively with this course! You'll learn how to read and write complex queries to a data",
+        "author_name": "Sarah Dayan",
+        "img": "https://i.ibb.co/JxMchpQ/sql.png",
+        "ratings": "4.9",
+        "students": "Student Enroll (17,267)"
     },
     {
         "id": "05",
-        "name": "The Data Science Course 2022: Complete Data Science Bootcamp"
+        "name": "The Data Science Course 2022: Complete Data Science Bootcamp",
+        "title": "Complete Data Science Training: Mathematics, Statistics, Python, Advanced Statistics in Python, Machine & Deep Learning",
+        "author_name": "Sarah Dayan",
+        "img": "https://i.ibb.co/YB0QqX4/data-scince.png",
+        "ratings": "4.9",
+        "students": "Student Enroll (17,267)"
     },
     {
         "id": "06",
-        "name": "Machine Learning A-Z™: Hands-On Python & R In Data Science"
+        "name": "Machine Learning A-Z™: Hands-On Python & R In Data Science",
+        "title": "Learn to create Machine Learning Algorithms in Python and R from two Data Science experts. Code templates included. You will learn much better",
+        "author_name": "Sarah Dayan",
+        "img": "https://i.ibb.co/sWwSxWW/Machine-Learning.jpg",
+        "ratings": "4.9",
+        "students": "Student Enroll (17,267)"
     }
 ]
