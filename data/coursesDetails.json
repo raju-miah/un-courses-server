@@ -7,7 +7,8 @@
         "img": "https://i.ibb.co/THNwKqx/Web-Development-Bootcamp.jpg",
         "ratings": "4.9",
         "students": "Student Enroll (17,267)",
-        "details": "You will build 16 web development projects for your portfolio, ready to apply for junior developer jobs.You will master both front and back-end development, becoming a full-stack developer by the end of the course.Build fully-fledged websites and web apps for your startup or business.Master frontend development with React.Learn professional developer best practices.You will learn the latest technologies, including Javascript, React, Node and even Web3 development.After the course you will be able to build ANY website you want.Work as a freelance web developer.Master backend development with Node"
+        "details": "You will build 16 web development projects for your portfolio, ready to apply for junior developer jobs.You will master both front and back-end development, becoming a full-stack developer by the end of the course.Build fully-fledged websites and web apps for your startup or business.Master frontend development with React.Learn professional developer best practices.You will learn the latest technologies, including Javascript, React, Node and even Web3 development.After the course you will be able to build ANY website you want.Work as a freelance web developer.Master backend development with Node",
+        "price": "199"
     },
     {
         "id": "02",
@@ -17,7 +18,8 @@
         "img": "https://i.ibb.co/QJV0ZfP/Python-Bootcamp.jpg",
         "ratings": "4.9",
         "students": "Student Enroll (17,267)",
-        "details": "You will master the Python programming language by building 100 unique projects over 100 days.You will be able to program in Python professionally.Create a portfolio of 100 Python projects to apply for developer jobs.Be able to use Python for data science and machine learning.Build GUIs and Desktop applications with Python.You will learn automation, game, app and web development, data science and machine learning all using Python.You will learn Selenium, Beautiful Soup, Request, Flask, Pandas, NumPy, Scikit Learn, Plotly, and Matplotlib.Be able to build fully fledged websites and web apps with Python.Build games like Blackjack, Pong and Snake using Python"
+        "details": "You will master the Python programming language by building 100 unique projects over 100 days.You will be able to program in Python professionally.Create a portfolio of 100 Python projects to apply for developer jobs.Be able to use Python for data science and machine learning.Build GUIs and Desktop applications with Python.You will learn automation, game, app and web development, data science and machine learning all using Python.You will learn Selenium, Beautiful Soup, Request, Flask, Pandas, NumPy, Scikit Learn, Plotly, and Matplotlib.Be able to build fully fledged websites and web apps with Python.Build games like Blackjack, Pong and Snake using Python",
+        "price": "299"
     },
     {
         "id": "03",
@@ -27,7 +29,8 @@
         "img": "https://i.ibb.co/C0tDxzR/React.png",
         "ratings": "4.9",
         "students": "Student Enroll (17,267)",
-        "details": "Build powerful, fast, user-friendly and reactive web apps.Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors you can find in web dev right nowProvide amazing user experiences by leveraging the power of JavaScript with ease.Learn all about React Hooks and React Components"
+        "details": "Build powerful, fast, user-friendly and reactive web apps.Apply for high-paid jobs or work as a freelancer in one the most-demanded sectors you can find in web dev right nowProvide amazing user experiences by leveraging the power of JavaScript with ease.Learn all about React Hooks and React Components",
+        "price": "399"
     },
     {
         "id": "04",
@@ -37,7 +40,8 @@
         "img": "https://i.ibb.co/JxMchpQ/sql.png",
         "ratings": "4.9",
         "students": "Student Enroll (17,267)",
-        "details": "Use SQL to query a database.Be comfortable putting SQL and PostgreSQL on their resume.Replicate real-world situations and query reports.Use SQL to perform data analysis.Learn to perform GROUP BY statements"
+        "details": "Use SQL to query a database.Be comfortable putting SQL and PostgreSQL on their resume.Replicate real-world situations and query reports.Use SQL to perform data analysis.Learn to perform GROUP BY statements",
+        "price": "499"
     },
     {
         "id": "05",
@@ -47,7 +51,8 @@
         "img": "https://i.ibb.co/YB0QqX4/data-scince.png",
         "ratings": "4.9",
         "students": "Student Enroll (17,267)",
-        "details": "The course provides the entire toolbox you need to become a data scientist.Impress interviewers by showing an understanding of the data science field.Understand the mathematics behind Machine Learning (an absolute must which other courses don’t teach!).Perform linear and logistic regressions in Python.Be able to create Machine Learning algorithms in Python, using NumPy, statsmodels and scikit-learn.Use state-of-the-art Deep Learning frameworks such as Google’s TensorFlowDevelop a business intuition while coding and solving tasks with big data"
+        "details": "The course provides the entire toolbox you need to become a data scientist.Impress interviewers by showing an understanding of the data science field.Understand the mathematics behind Machine Learning (an absolute must which other courses don’t teach!).Perform linear and logistic regressions in Python.Be able to create Machine Learning algorithms in Python, using NumPy, statsmodels and scikit-learn.Use state-of-the-art Deep Learning frameworks such as Google’s TensorFlowDevelop a business intuition while coding and solving tasks with big data",
+        "price": "599"
     },
     {
         "id": "06",
@@ -57,6 +62,7 @@
         "img": "https://i.ibb.co/sWwSxWW/Machine-Learning.jpg",
         "ratings": "4.9",
         "students": "Student Enroll (17,267)",
-        "details": "Master Machine Learning on Python & R,Make accurate predictions.Make robust Machine Learning models.Use Machine Learning for personal purpose.Handle advanced techniques like Dimensionality Reduction.Build an army of powerful Machine Learning models and know how to combine them to solve any problem.Have a great intuition of many Machine Learning modelsMake powerful analysis"
+        "details": "Master Machine Learning on Python & R,Make accurate predictions.Make robust Machine Learning models.Use Machine Learning for personal purpose.Handle advanced techniques like Dimensionality Reduction.Build an army of powerful Machine Learning models and know how to combine them to solve any problem.Have a great intuition of many Machine Learning modelsMake powerful analysis",
+        "price": "699"
     }
 ]
